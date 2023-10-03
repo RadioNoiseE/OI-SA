@@ -1,2 +1,1 @@
-## OI-SA `|OI Solutions Archieve|`
-Part of my life as a OIer.
+## OI-SA `|OI Solutions Archieved|`
