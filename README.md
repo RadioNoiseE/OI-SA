@@ -1,1 +1,3 @@
-## OI-SA `|OI Solutions Archieved|`
+## `OI-SA`
+
+> `Olympiad in Informatics - Solutions Archieved.`
